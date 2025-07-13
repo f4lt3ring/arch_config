@@ -8,8 +8,8 @@ return {
       "nvim-java/nvim-java-dap",
       "nvim-java/nvim-java-refactor",
       "MunifTanjim/nui.nvim",
-      "neovim/nvim-lspconfig",
       "mfussenegger/nvim-jdtls",
+      "neovim/nvim-lspconfig",
     },
     config = function()
       require("java").setup()

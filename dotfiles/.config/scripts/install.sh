@@ -19,6 +19,7 @@ PKGS=(
   pipewire
   pipewire-pulse
   wireplumber
+  blueberry
 
   # Hyprland desktop
   hyprland
@@ -32,6 +33,7 @@ PKGS=(
   nwg-look
   udiskie
   ly
+  swww
 
   # 🎨 Themes
   adw-gtk-theme
@@ -43,9 +45,14 @@ PKGS=(
   nautilus
   decibels
   eog
-  flameshot
   kooha
   obsidian
+
+  # PrtSc
+  grim
+  slurp
+  swappy
+  wl-clipboard
 
   # 🌐 Internet and media
   firefox
@@ -79,6 +86,7 @@ AUR_PKGS=(
   # 🎨 Looks and visuals
   bibata-cursor-theme
   waypaper
+  wlogout
   tofi
 
   # 📺 Media and XWayland
@@ -88,6 +96,12 @@ AUR_PKGS=(
   cbonsai
   pipes.sh
   neofetch
+
+  # Fonts
+  ttf-jetbrains-mono-nerd 
+  ttf-nerd-fonts-symbols
+  ttf-nerd-fonts-symbols-mono
+
 
   # 💻 Development tools
   aseprite
